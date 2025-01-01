@@ -1,6 +1,6 @@
 # Password Generator 1.0.0
 
-<img src="assets/img/3.14lot-logo-md.png" alt="3.14LOT-logo" width="200px">
+<img src="src/assets/img/3.14lot-logo-md.png" alt="3.14LOT-logo" width="200px">
 
 ## Description
 
