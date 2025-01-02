@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   border: 0;
-  font-family: "Open Sans", serif;
+  font-family: Open Sans, sans-serif;
 }
 html,
 body {
@@ -18,11 +18,11 @@ body {
 }
 h1 {
   font-size: 38px;
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
 }
 h2 {
   font-size: 30px;
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
 }
 header {
   position: relative;
@@ -224,7 +224,7 @@ footer {
   margin-bottom: 10px;
 }
 .password-content {
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -286,6 +286,7 @@ footer {
   visibility: visible;
 }
 .left-buttons {
+  width: 46px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -489,7 +490,7 @@ input[type="range"]::-webkit-slider-thumb {
   display: none;
 }
 .sp-gradient {
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
   padding-bottom: 3px;
   margin-right: 8px;
   font-size: 24px;
