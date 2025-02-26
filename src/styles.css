@@ -33,7 +33,7 @@ header {
   text-align: center;
   min-height: 50px;
   z-index: 1;
-  border-bottom: 10px solid #bb9a6a;
+  border-bottom: 10px solid #ac8e64;
   margin-bottom: 10px;
 }
 main {
@@ -50,7 +50,7 @@ main p {
   margin-top: 5px;
 }
 footer {
-  border-top: 7px solid #bb9a6a;
+  border-top: 7px solid #ac8e64;
   background-color: #2a2c2e;
   color: #fafcfe;
   text-align: center;
@@ -120,7 +120,7 @@ footer {
   top: 0px;
   width: 125px;
   height: 90px;
-  background-color: #bb9a6a;
+  background-color: #ac8e64;
   z-index: 3;
   display: flex;
   justify-content: center;
@@ -201,7 +201,7 @@ footer {
   width: 100%;
 }
 .password-container {
-  border-bottom: 4px solid #bb9a6a;
+  border-bottom: 4px solid #ac8e64;
   padding: 4px;
   width: 100%;
   min-height: 60px;
@@ -468,7 +468,7 @@ input[type="range"]::-webkit-slider-thumb {
   transform: rotate(135deg);
 }
 .content {
-  border: 2px solid #bb9a6a;
+  border: 2px solid #ac8e64;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.5s ease;
