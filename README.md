@@ -1,4 +1,4 @@
-# Password Generator 1.1.0
+# Password Generator 1.1.2
 
 <img src="src/assets/img/3.14lot-logo-md.png" alt="3.14LOT-logo" width="200px">
 
